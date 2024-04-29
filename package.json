@@ -1,6 +1,6 @@
 {
   "name": "simple-interval-tree-1d",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "1D interval tree data structure",
   "main": "interval-tree.js",
   "directories": {
